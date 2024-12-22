@@ -1,0 +1,1 @@
+# **Automated Judging of LLM-based Smart Contract Security Auditors**
