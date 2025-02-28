@@ -7,9 +7,6 @@
 
 
 
-
-
-
 High resolution Demo
 [![smartJudge](smartJ.png)](https://youtu.be/aUzrv_pqDGw "smartJudge")
 
