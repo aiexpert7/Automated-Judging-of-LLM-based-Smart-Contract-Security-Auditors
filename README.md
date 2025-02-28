@@ -1,6 +1,7 @@
 # **Automated Judging of LLM-based Smart Contract Security Auditors**
 
 
+(https://youtu.be/aUzrv_pqDGw smartJudge)
 
 ## Scoring System
 
