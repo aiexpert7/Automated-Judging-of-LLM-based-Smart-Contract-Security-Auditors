@@ -6,7 +6,8 @@ https://github.com/smartbugs/smartbugs-curated/tree/main
 
 https://github.com/dslmllab/LLMSmartSec/tree/main/Dataset
 
-To setup Neo4J Desktop, follow the instructions in the link below:
+To setup chroma as vector store.
 
-https://neo4j.com/download/
+
+(https://cookbook.openai.com/examples/vector_databases/chroma/using_chroma_for_embeddings_search)
 
