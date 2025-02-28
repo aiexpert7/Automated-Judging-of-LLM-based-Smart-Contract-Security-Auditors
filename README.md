@@ -1,7 +1,7 @@
 # **Automated Judging of LLM-based Smart Contract Security Auditors**
 
 
-![Alt text here](sj.gif)
+![Alt text here](smartJudge.gif)
 
 
 
