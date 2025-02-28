@@ -1,3 +1,3 @@
-![smartJudge] (explaination.png)
+![smartJudge](smartJudgeexplaination.png)
 
-![agenticRAG](agenticRAG knowledge.png)
+![agenticRAG](agenticRAGknowledge.png)
