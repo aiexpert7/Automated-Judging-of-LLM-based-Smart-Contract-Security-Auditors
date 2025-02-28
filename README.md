@@ -1,8 +1,10 @@
 # **Automated Judging of LLM-based Smart Contract Security Auditors**
 
 
-![Alt text here](smartJudge.gif)
 
+<p align="center">
+  <img src="smartJudge.gif" width="1000" alt="Demo">
+</p>
 
 
 
