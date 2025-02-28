@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="smartJudge_.gif" width="1000" alt="Demo">
+  <img src="smartJudge.gif" width="1000" alt="Demo">
 </p>
 
 
