@@ -1,9 +1,13 @@
 # **Automated Judging of LLM-based Smart Contract Security Auditors**
 
+[![smartJudge](home.png)](https://youtu.be/aUzrv_pqDGw "smartJudge")
 
-(https://youtu.be/aUzrv_pqDGw smartJudge)
 
-## Scoring System
+https://youtu.be/aUzrv_pqDGw smartJudge
+
+
+
+## Evaluation Rubric
 
 Each metric is rated on a 4-point scale:
 
@@ -12,8 +16,6 @@ Each metric is rated on a 4-point scale:
 - 🟧🟧 (2.0) - Developing
 - 🟥 (1.0) - Needs Improvement
 
-
-## Evaluation Rubric
 
 ### 1. Vulnerability Detection
 
