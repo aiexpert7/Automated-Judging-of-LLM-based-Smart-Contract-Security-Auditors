@@ -10,7 +10,7 @@
 
 
 High resolution Demo
-[![smartJudge](smartJ.png)](https://youtu.be/aUzrv_pqDGw "smartJudge")
+[![smartJudge](smartJ.png)](https://youtu.be/ort3yIymiD8 "smartJudge")
 
 
 
